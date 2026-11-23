@@ -35,8 +35,8 @@ or any other form of tracking. We do not know who uses the app or how.
 The contact form on the Optiflow website asks for your name, email address,
 optionally your company, a topic and your message. We use these details only to
 reply to you. The form is delivered by Web3Forms (web3forms.com), which forwards
-the message to our inbox and keeps a copy for up to 30 days under its data
-processing agreement. We keep the email only as long as the conversation needs
+the message to our inbox and may keep a copy for a limited time according to
+its own terms and data processing agreement. We keep the email only as long as the conversation needs
 it, and you can ask us at any time to delete it.
 
 ## Children
