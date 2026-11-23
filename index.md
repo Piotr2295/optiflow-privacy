@@ -39,6 +39,16 @@ the message to our inbox and may keep a copy for a limited time according to
 its own terms and data processing agreement. We keep the email only as long as the conversation needs
 it, and you can ask us at any time to delete it.
 
+## Formularz kontaktowy na stronie (PL)
+
+Formularz kontaktowy na stronie Optiflow prosi o imię i nazwisko, adres e-mail,
+opcjonalnie nazwę firmy, temat i treść wiadomości. Używamy tych danych wyłącznie,
+aby odpowiedzieć na wiadomość. Formularz obsługuje Web3Forms (web3forms.com), który
+przekazuje wiadomość do naszej skrzynki i może przechowywać jej kopię przez
+ograniczony czas zgodnie ze swoim regulaminem i umową powierzenia danych.
+Wiadomość przechowujemy tylko tak długo, jak wymaga tego rozmowa, i w każdej
+chwili możesz poprosić o jej usunięcie.
+
 ## Children
 
 The app does not target children and does not collect data from any users regardless of age.
