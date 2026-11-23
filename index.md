@@ -39,7 +39,8 @@ the message to our inbox and may keep a copy for a limited time according to
 its own terms and data processing agreement. We keep the email only as long as the conversation needs
 it, and you can ask us at any time to delete it.
 
-The data controller is the developer of Optiflow. To ask about your data or to
+The data controller is Piotr Ciszek (sole proprietorship registered in
+Poland), the developer of Optiflow. To ask about your data or to
 have a message deleted, write to **contact@optiflow-energy.com**. Web3Forms acts
 as our data processor; its own privacy policy and data processing agreement
 (web3forms.com) describe where and how it processes data.
@@ -54,7 +55,8 @@ ograniczony czas zgodnie ze swoim regulaminem i umową powierzenia danych.
 Wiadomość przechowujemy tylko tak długo, jak wymaga tego rozmowa, i w każdej
 chwili możesz poprosić o jej usunięcie.
 
-Administratorem danych jest twórca aplikacji Optiflow. Pytania o dane i prośby o
+Administratorem danych jest Piotr Ciszek (jednoosobowa działalność
+gospodarcza), twórca aplikacji Optiflow. Pytania o dane i prośby o
 usunięcie wiadomości: **contact@optiflow-energy.com**. Web3Forms przetwarza dane w
 naszym imieniu (podmiot przetwarzający); szczegóły w jego polityce prywatności i
 umowie powierzenia (web3forms.com).
