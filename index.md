@@ -45,6 +45,14 @@ have a message deleted, write to **contact@optiflow-energy.com**. Web3Forms acts
 as our data processor; its own privacy policy and data processing agreement
 (web3forms.com) describe where and how it processes data.
 
+Legal basis: our legitimate interest in answering your message, or steps you ask
+for before a possible agreement (GDPR Art. 6(1)(f) and (b)). We keep a message
+for up to 12 months after the conversation ends, unless an agreement requires
+longer. Web3Forms may process data outside the European Economic Area under the
+safeguards in its data processing agreement. You have the right to access,
+correct and delete your data, to object, and to complain to the Polish data
+protection authority (Prezes UODO).
+
 ## Formularz kontaktowy na stronie (PL)
 
 Formularz kontaktowy na stronie Optiflow prosi o imię i nazwisko, adres e-mail,
@@ -60,6 +68,14 @@ gospodarcza), twórca aplikacji Optiflow. Pytania o dane i prośby o
 usunięcie wiadomości: **contact@optiflow-energy.com**. Web3Forms przetwarza dane w
 naszym imieniu (podmiot przetwarzający); szczegóły w jego polityce prywatności i
 umowie powierzenia (web3forms.com).
+
+Podstawa prawna: nasz prawnie uzasadniony interes w odpowiedzi na wiadomość lub
+działania na Twoje żądanie przed ewentualną umową (art. 6 ust. 1 lit. f i b RODO).
+Wiadomość przechowujemy do 12 miesięcy po zakończeniu rozmowy, chyba że umowa
+wymaga dłużej. Web3Forms może przetwarzać dane poza Europejskim Obszarem
+Gospodarczym z zabezpieczeniami opisanymi w umowie powierzenia. Masz prawo do
+dostępu do danych, ich sprostowania i usunięcia, sprzeciwu oraz skargi do Prezesa
+UODO.
 
 ## Children
 
