@@ -1,12 +1,14 @@
 # Privacy Policy — Optiflow
 
-**Effective date:** 2026-04-22
+**Effective date:** 2026-11-23
 
 ---
 
 ## Data we collect
 
-This app does **not** collect, store, or share any personal data.
+The app does **not** collect, store, or share any personal data. The only
+personal data we receive is what you choose to send through the website contact
+form (see below).
 We do not require account registration or login of any kind.
 
 ## Location
@@ -27,6 +29,15 @@ Elektroenergetyczne) and ENTSO-E. No personal information is transmitted in thes
 
 The app contains **no** analytics SDKs, crash-reporting libraries, advertising networks,
 or any other form of tracking. We do not know who uses the app or how.
+
+## Website contact form
+
+The contact form on the Optiflow website asks for your name, email address,
+optionally your company, a topic and your message. We use these details only to
+reply to you. The form is delivered by Web3Forms (web3forms.com), which forwards
+the message to our inbox and keeps a copy for up to 30 days under its data
+processing agreement. We keep the email only as long as the conversation needs
+it, and you can ask us at any time to delete it.
 
 ## Children
 
