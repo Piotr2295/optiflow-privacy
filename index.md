@@ -1,24 +1,43 @@
 # Privacy Policy — Optiflow
 
-**Effective date:** 2026-11-23
+**Effective date:** 2026-11-25
 
 ---
 
 ## Data we collect
 
-The app does **not** collect, store, or share any personal data. The only
-personal data we receive is what you choose to send through the website contact
-form (see below).
+The app does **not** collect, store, or share any personal data. Our server receives
+only what it needs to answer each request (for example a rounded location for the
+solar forecast) and keeps just the short technical logs described below. The only
+other personal data we receive is what you choose to send through the website
+contact form (see below).
 We do not require account registration or login of any kind.
 
 ## Location
 
 If you enable the GPS option for solar panel location, your device coordinates are used
-**only** to request a solar irradiance forecast from a third-party weather service.
-The coordinates are transmitted solely for that forecast request and are
-**not** stored by us, logged, or used for any other purpose.
+**only** to get a solar production forecast. They are sent to our server, which rounds
+them to about 1 km (two decimal places) and passes only the rounded location to the
+weather service Open-Meteo (open-meteo.com). We do **not** log coordinates or use them for
+any other purpose. To avoid repeated requests, a forecast for a rounded location may be
+kept in a temporary cache on our server, without any link to you or your device.
 
 You can also enter your location manually — in that case GPS is never accessed.
+
+## Server logs
+
+Our server (hosted by Render in Frankfurt, EU) keeps short technical logs to run the
+service and protect it from abuse: the time, the type of request, the result, and a
+**shortened** IP address (the last part removed, e.g. 91.230.99.0). Logs contain no
+coordinates and no account data. Render keeps these logs for up to 30 days and then
+deletes them. Legal basis: our legitimate interest in running a secure service
+(GDPR Art. 6(1)(f)).
+
+**Logi serwera (PL):** serwer (Render, Frankfurt, UE) zapisuje krótkie logi techniczne:
+czas, rodzaj zapytania, wynik i **skrócony** adres IP (bez ostatniej części). Logi nie
+zawierają współrzędnych ani danych konta i są usuwane po maksymalnie 30 dniach.
+Podstawa prawna: prawnie uzasadniony interes w bezpiecznym działaniu usługi
+(art. 6 ust. 1 lit. f RODO).
 
 ## Electricity prices
 
